@@ -193,7 +193,7 @@ def window1():
 sys.stdout.write('\x1b]2;𓆩【🔥REMON HERO 🔥】𓆪 \x07')
 
 
-    # RBX Clover Logo - White - Version 2.5
+    # RBX Clover Logo - Green - Version 2.5
 def ____banner____():
     if 'win' in sys.platform:
         os.system('cls')
@@ -217,7 +217,7 @@ def ____banner____():
  \033[1;33m[+] TOOL         : OLD CLONE IDZ
  \033[1;33m[+] STATUS       : PAID
   \033[1;32m----------------------------------------------
-\033[1;35m[+] """)
+\033[1;35m[+] ONLY DATA WORKING""")
 
 
 
