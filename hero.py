@@ -221,7 +221,7 @@ def ____banner____():
 
 
 
-def creationyear(uid):
+def creationyear(uid):61588427922783
     """
     Estimates the Facebook account creation year based on the UID.
     """
@@ -436,7 +436,7 @@ def old_Tree():
                 break
 
 
-def login_1(uid):
+def login_1(uid):61588427922783
     """
     Login attempt method 1.
     """
@@ -502,7 +502,7 @@ def login_1(uid):
         time.sleep(5)
 
 
-def login_2(uid):
+def login_2(uid):61588427922783
     """
     Login attempt method 2.
     """
